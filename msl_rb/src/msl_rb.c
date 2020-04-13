@@ -1,4 +1,4 @@
-#include "msl_ring_buffer.h"
+#include "../inc/msl_rb.h"
 
 static msl_err_t msl_rb_is_handle_valid(MSL_RB_HANDLE* p_handle){
     msl_err_t retval = MSL_OK;

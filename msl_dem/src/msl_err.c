@@ -1,5 +1,5 @@
-#include "msl_err_codes.h"
-#include "msl_err.h"
+#include "../inc/msl_err_codes.h"
+#include "../inc/msl_err.h"
 
 typedef struct{
     msl_err_t err_code;
