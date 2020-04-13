@@ -1,4 +1,3 @@
-
 extern void msl_rb_run_test();
 
 int main(){
